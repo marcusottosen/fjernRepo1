@@ -26,7 +26,8 @@ public class Regnemaskine{
         if (tegn.equals("/")){
             result = a / b;
         }
-
+// HVorfor fjerner du min *.
+        // Nu er min regnemaskine vildt ringe.
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
     }
 }
