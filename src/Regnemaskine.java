@@ -23,9 +23,6 @@ public class Regnemaskine{
         if (tegn.equals("-")){
             result = a - b;
         }
-        if (tegn.equals("*")){
-            result = a * b;
-        }
         if (tegn.equals("/")){
             result = a / b;
         }
