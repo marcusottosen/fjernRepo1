@@ -29,7 +29,7 @@ public class Regnemaskine{
 
         // HVorfor fjerner du min *.
         // Nu er min regnemaskine jo vildt ringe(Victors ændring)...
-        //Test
+        //Testing 1234
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
         //TEST 1234
     }
