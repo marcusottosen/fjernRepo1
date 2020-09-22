@@ -27,8 +27,8 @@ public class Regnemaskine{
             result = a / b;
         }
 
-// HVorfor fjerner du min *.
-        // Nu er min regnemaskine jo vildt ringe...
+        // HVorfor fjerner du min *.
+        // Nu er min regnemaskine jo vildt ringe(Victors ændring)...
         //Test
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
 
