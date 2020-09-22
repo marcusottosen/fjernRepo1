@@ -28,7 +28,7 @@ public class Regnemaskine{
         }
 
         // HVorfor fjerner du min *.
-        // Nu er min regnemaskine jo vildt ringe(Victors ændring)...
+        // Nu er min helt nye regnemaskine jo vildt ringe(Victors ændring)...
         //Testing 12345
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
         //TEST 1234
