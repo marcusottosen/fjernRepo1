@@ -31,7 +31,6 @@ public class Regnemaskine{
         // Nu er min regnemaskine jo vildt ringe(Victors ændring)...
         //Test
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
-
-        hej hej
+        //TEST 1234
     }
 }
