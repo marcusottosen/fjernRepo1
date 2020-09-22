@@ -31,5 +31,7 @@ public class Regnemaskine{
         // Nu er min regnemaskine jo vildt ringe...
         //Test
         System.out.println("Resultat: " + a + tegn + b + " = " + result);
+
+        hej hej
     }
 }
